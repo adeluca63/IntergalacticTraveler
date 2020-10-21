@@ -15,6 +15,7 @@
 		75FCDB6325406B4E0087DAEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75FCDB6125406B4E0087DAEA /* LaunchScreen.storyboard */; };
 		75FCDB6E25406B4F0087DAEA /* IntergalacticTravelerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FCDB6D25406B4F0087DAEA /* IntergalacticTravelerTests.swift */; };
 		75FCDB7925406B4F0087DAEA /* IntergalacticTravelerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FCDB7825406B4F0087DAEA /* IntergalacticTravelerUITests.swift */; };
+		75FCDB8725406D290087DAEA /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FCDB8625406D290087DAEA /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		75FCDB7425406B4F0087DAEA /* IntergalacticTravelerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IntergalacticTravelerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		75FCDB7825406B4F0087DAEA /* IntergalacticTravelerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntergalacticTravelerUITests.swift; sourceTree = "<group>"; };
 		75FCDB7A25406B4F0087DAEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75FCDB8625406D290087DAEA /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				75FCDB5625406B490087DAEA /* AppDelegate.swift */,
 				75FCDB5825406B490087DAEA /* SceneDelegate.swift */,
 				75FCDB5A25406B490087DAEA /* ViewController.swift */,
+				75FCDB8625406D290087DAEA /* SecondVC.swift */,
 				75FCDB5C25406B490087DAEA /* Main.storyboard */,
 				75FCDB5F25406B4E0087DAEA /* Assets.xcassets */,
 				75FCDB6125406B4E0087DAEA /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				75FCDB5B25406B490087DAEA /* ViewController.swift in Sources */,
 				75FCDB5725406B490087DAEA /* AppDelegate.swift in Sources */,
+				75FCDB8725406D290087DAEA /* SecondVC.swift in Sources */,
 				75FCDB5925406B490087DAEA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
